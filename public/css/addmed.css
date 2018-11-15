@@ -1,0 +1,190 @@
+.main{
+    position: relative;
+}
+
+.ver{
+    float: left;
+    position: absolute;
+}
+
+
+.med{
+    position: absolute;
+    float: left;
+    margin-top: 0px;
+   
+    width: 84%;
+    height: 900px;
+    margin-left: 200px;
+    
+    
+}
+
+.meden{
+ 
+    font-synthesis: weight;
+    font-size: 30px;
+    margin-left: 350px;
+    
+}
+.for{
+    width: 600px;
+    height: 700px;
+    background-color: whitesmoke;
+    margin-left: 200px;
+}
+.label{
+    font-family: sans-serif;
+    color: black;
+    font-size: 20px;
+    margin-left: 70px;
+    
+}
+.text{
+    height: 30px;
+    width: 200px;
+    border-bottom-color: midnightblue;
+    border: 2px;
+    border-style: solid;
+    margin-left: 100px;
+    
+    
+}
+.tex{
+    height: 30px;
+    width: 200px;
+    
+    margin-left: 100px;
+    
+    
+}
+.area{
+    margin-left: 100px;
+}
+.err{
+    color: red;
+    font-size: 20px;
+    text-align: center;
+    
+}
+.but{
+    margin-left: 300px;
+    color: white;
+    font-size: 30px;
+    background-color: cadetblue;
+    
+}
+
+.mes{
+    margin-top: 20px;
+    margin-left: 130px;
+    font-size: 20px;
+    color: darkgreen;
+    background-color: lightgoldenrodyellow;
+    
+}
+.updateitem{
+margin-left: 100px;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.customertable{
+    margin-left: 100px;
+    
+}
+.tablecustomer{
+    background-color: whitesmoke;
+     text-align: center;
+   
+}
+.rowcustomer{
+    border-bottom: 3px;
+    border-color: greenyellow;
+    border-width: 3px;
+    
+}
+.customerdata{
+     border-bottom: 3px;
+    border-color: greenyellow;
+    border-width: 3px;
+    padding: 35px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+
+
+
+.sendmessage{
+   font-size: 25px;
+    color: red;
+    text-decoration: none;
+ 
+}
+
+.mail{
+   
+    width: 100%;
+   overflow: hidden;
+    background-image: url(dark.jpg);
+    background-repeat: no-repeat;
+    float: left;
+    margin-left: 0px;
+    
+}
+.mailbox{
+    width: 50%;
+    height: 50%;
+    margin-top: 4%;
+    margin-left: 15%;
+    background-color: whitesmoke;
+    border-radius: 8px;
+    
+    
+}
+.mailhead{
+    text-align: center;
+}
+.maillabel{
+    margin-left: 50px;
+    color: darkslategrey;
+    font-size: 25px;
+}
+.totext{
+    width: 300px;
+    border-radius: 15px;
+    height: 30px;
+    margin-left: 25px;
+}
+.textarea{
+    border-radius: 15px;
+    margin-left: 180px;
+    border-width: 0px;
+    background-color: lightgray;
+    text-align:justify;
+    
+}
+.send{
+    height: 30px;
+    width: 300px;
+    background-color: brown;
+    border: 0px;
+    color: white;
+    margin-left: 180px;
+    border-radius: 9px;
+}
+.orderitem{
+    margin-left: 170px;
+}
+.ordereditem{
+    width: 300px;
+    height: 300px;
+}
+.crud{
+    height: 30px;
+    background-color:lightseagreen;
+    color: white;
+    font-weight: bold;
+}

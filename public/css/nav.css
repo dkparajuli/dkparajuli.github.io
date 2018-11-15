@@ -1,0 +1,38 @@
+html,body{
+    margin: 0px;
+}
+.hornav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+     
+    padding: 15px;
+}
+li a {
+    display: block;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+ 
+    text-decoration: none;
+}
+
+.search{
+   height: 30px;
+    margin-top: 0px;
+    width: 300px;
+    padding-top: 0px;
+   
+}
+.searchbutton{
+    border: 0px;
+    color: greenyellow;
+    font-size: 17px;
+    background-color: #333;
+}

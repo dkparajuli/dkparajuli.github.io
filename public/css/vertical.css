@@ -1,0 +1,37 @@
+html,body{
+    margin-top: 0px;
+    padding-top: 0px;
+}
+.hor{
+    height: 56px;
+}
+.vnav{
+    margin-top: 0px;
+    background-color: #061213;
+    width: 300px;
+    float: left;
+    height: 800px;
+}
+.vl{
+    color: white;
+    font-size: 20px;
+    padding-top: 20px;
+    margin-right: 10px;
+    margin-left: 20px;
+    display: block;
+    
+}
+.vl:hover{
+    border-top: 2px;
+    border-bottom: 2px;
+    border-right: 0px;
+    border-left: 0px;
+    border-color: lightyellow;
+    border-style: solid;
+    
+}
+a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+

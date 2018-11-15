@@ -1,0 +1,193 @@
+body{
+    margin-top: 0px;
+}
+
+.helppage{
+ 
+    width: 100%;
+    
+    margin-top: 0px;
+    position: relative;
+}
+
+.helppagecontent{
+    position: absolute;
+    margin-left: 10%;
+    width: 70%;
+}
+.faqheading{
+    font-family: cursive;
+    color: dodgerblue;
+    text-align: center;
+}
+.questioncategory{
+    font-size: 25px;
+    margin-left: 70px;
+    color:darkred;
+    
+}
+
+.det{
+    color:black;
+    font-size: 20px;
+    margin-left: 80px;
+    font-weight: bold;
+    padding-bottom: 20px;
+    
+}
+.answer{
+    color:rebeccapurple;
+}
+
+.socialimage{
+    float: left;
+    position: absolute;
+    width: 30%;
+    border-width: 3px;
+    border-color: beige;
+    border-style: dashed;
+}
+.img{
+    width: 500px;
+    height: 400px;
+}
+.joinus{
+    width: 400px;
+    float: left;
+    position: absolute;
+    margin-left: 600px;
+}
+.join{
+    color: goldenrod;
+}
+.desc{
+ margin-left: 50px;
+    text-align: justify;
+}
+.usercount{
+    margin-left: 500px;
+    color: white;
+    background-color: mediumpurple;
+    width: 550px;
+    height: 70px;
+    font-size: 50px;
+    border-radius: 10px;
+    
+    
+    
+}
+
+.tabletransaction{
+    background-color: whitesmoke;
+     text-align: center;
+    margin-left: 350px;
+   
+}
+.tablerowss{
+    border-bottom: 3px;
+    border-color: greenyellow;
+    border-width: 3px;
+    
+}
+.tablerow{
+     border-bottom: 3px;
+    border-color: greenyellow;
+    border-width: 3px;
+    padding: 35px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.med{
+    position: absolute;
+  
+    width: 700px;
+    height: 500px;
+    margin-left: 400px;
+}
+
+.boxone{
+    border-width: 0px;
+    border-style: dashed;
+    border-color: black;
+    margin-top: 50px;
+    float: left;
+    width: 200px;
+    height: 100px;
+    margin-left: 70px;
+    background-color: whitesmoke;
+    
+}
+.boxtwo{
+    border-width: 0px;
+    border-style: dashed;
+    border-color: black;
+    margin-top: 50px;
+    float: left;
+    width: 200px;
+    height: 100px;
+    margin-left: 200px;
+    background-color: whitesmoke;
+    
+}
+.boxthree{
+    border-width: 0px;
+    border-style: dashed;
+    border-color: black;
+    margin-top: 70px;
+    float: left;
+    width: 200px;
+    height: 100px;
+    margin-left: 70px;
+    
+    background-color: whitesmoke;
+}
+.boxfour{
+    border-width: 0px;
+    border-style: solid;
+    border-color: black;
+   
+    float: left;
+    width: 200px;
+    height: 100px;
+    margin-left: 200px;
+    margin-top: 70px;
+    background-color: whitesmoke;
+    
+}
+.boxfive{
+    border-width: 0px;
+    border-style: dashed;
+    border-color: black;
+    margin-top: 70px;
+    float: left;
+    width: 200px;
+    height: 100px;
+    margin-left: 70px;
+    background-color: whitesmoke;
+    
+}
+.boxsix{
+    border-width: 0px;
+    border-style: solid;
+    border-color: black;
+   background-color: whitesmoke;
+    float: left;
+    width: 200px;
+    height: 100px;
+    margin-left: 200px;
+    margin-top: 70px;
+    
+}
+.boxhead{
+    margin-left: 30px;
+    font-family: fantasy;
+}
+.numbers{
+    margin-left: 50px;
+    font-family: cursive;
+}
+.images{
+    margin-top: 500px;
+}
+
+

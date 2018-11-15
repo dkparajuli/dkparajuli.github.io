@@ -1,0 +1,40 @@
+body{
+    background-color:aliceblue;
+}
+form{
+    background-image:url('imgg.jpg');
+    width: 40%;
+    height: 90%;
+    margin-left: 390px;
+    margin-top: 20px;
+    border-radius: 25px;
+}
+.img{
+     margin-left: 150px;
+    margin-top: 60px;
+    
+    
+    
+}
+.tex{
+    margin-left: 50px;
+    width: 80%;
+    height: 50px;
+    border-radius: 25px;
+    background-color: ghostwhite;
+    font-size: 30px;
+    text-align: center;
+}
+.logbutton{
+    color:lightslategrey;
+    font-family: cursive;
+    font-size: 30px;
+    margin-left: 330px;
+   
+}
+.regis{
+    color:white;
+    font-size: 30px;
+    margin-left: 30px;
+    text-decoration: none;
+}
